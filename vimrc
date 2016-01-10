@@ -6,6 +6,7 @@ call vundle#rc()
 Bundle 'heavenshell/vim-pydocstring'
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/TaskList.vim'
+Plugin 'nvie/vim-flake8'
 
 "let g:SimpylFold_docstring_preview = 1
 let g:SimpylFold_fold_docstring = 0

@@ -8,6 +8,8 @@ Create symlinks:
     ln -s ~/.vim/vimrc ~/.vimrc
     ln -s ~/.vim/gvimrc ~/.gvimrc
 
+For pyflake to work, you need to install flake8 (python-flake8)
+
 Changelog
 ---------
       
